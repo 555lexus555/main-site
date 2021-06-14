@@ -1387,8 +1387,8 @@ p.form-message.success, p.form-message.error {
   font-size: 20px;
   color: #fff;
   position: fixed;
-  right: 20px;
-  bottom: 20px;
+  right: 30px;
+  bottom: 90px;
   width: 50px;
   height: 50px;
   line-height: 46px;
@@ -1758,3 +1758,4 @@ p.form-message.success, p.form-message.error {
       cursor: pointer; }
 
 /*# sourceMappingURL=style.css.map */
+
